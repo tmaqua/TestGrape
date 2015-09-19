@@ -8,3 +8,6 @@
 
 # SetUp
 bundle install --path=vendor/bundle --jobs=4
+
+# API Routes
+bundle exec rake api:routes
