@@ -1,0 +1,1 @@
+json.merge! @hall_information.attributes
