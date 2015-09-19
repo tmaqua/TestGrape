@@ -17,6 +17,9 @@ gem 'unicorn'
 
 gem 'slim-rails'
 
+gem 'grape'
+gem 'grape-jbuilder'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 # Use Capistrano for deployment
